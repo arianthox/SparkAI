@@ -1,5 +1,7 @@
 # SparkAI (macOS Swift)
 
+[![CI](https://github.com/arianthox/SparkAI/actions/workflows/ci.yml/badge.svg)](https://github.com/arianthox/SparkAI/actions/workflows/ci.yml)
+
 SparkAI is a macOS-native desktop app for tracking AI account usage and battery state across OpenAI, Claude, and Cursor. It is implemented with SwiftUI, Swift Concurrency, SQLite (GRDB), Keychain-backed secrets, and a modular architecture.
 
 ## Architecture
