@@ -1,0 +1,5 @@
+.pnpm-store
+.build
+DerivedData
+.DS_Store
+.swiftpm
